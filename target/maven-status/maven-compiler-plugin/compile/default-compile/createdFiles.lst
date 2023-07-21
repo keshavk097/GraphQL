@@ -1,0 +1,7 @@
+com/graphql/demo/service/BookService.class
+com/graphql/demo/service/impl/BookServiceImpl.class
+com/graphql/demo/DemoApplication.class
+com/graphql/demo/repository/BookRepo.class
+com/graphql/demo/graphqlcontroller/QLController.class
+com/graphql/demo/model/Book.class
+com/graphql/demo/controller/BookController.class
